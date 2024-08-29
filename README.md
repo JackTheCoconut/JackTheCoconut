@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-ngan-1062a8265/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_im_not_jack_/)
 
-## Experiences
+## Experiences & Awards
 hackUST 2023 Web3.0 Best Sustainable Idea Awards
 
 ## Skills & Languages
