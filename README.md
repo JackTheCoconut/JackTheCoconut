@@ -38,6 +38,7 @@ hackUST2023 - Web3.0 Best Sustainable Idea Awards
 - 📖 **Reading** {Personal Development, Business & Finance, Psychology & Philosophy, Comics & Novel}
 - 🎵 **Music** {Jpop, Jrock, Rock, Metal, Blues, Jazz, JayChou}
 - 🎸 **Playing Guitar** {Fender Stratocaster, Musicman JP6, Ormsby Goliath GTR}
+- 📷 **Photography** {Sony A7RIII + Sony 24-70mm f2.8 GM + Tamron 70-180mm f2.8}
 
 ## 🌟 Other
 
