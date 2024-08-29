@@ -33,6 +33,12 @@ hackUST2023 - Web3.0 Best Sustainable Idea Awards
 - **The Essays of Warren Buffett** (巴菲特致股東的信）by Warren Buffett
 - **The Essential Wit and Wisdom of Charles T. Munger** (窮查理的普通常識) by Charles T. Munger
 
+## 🎸 Hobbies
+
+- 📖 **Reading** {Personal Development, Business & Finance, Psychology & Philosophy, Comics & Novel}
+- 🎵 **Music** {Jpop, Jrock, Rock, Metal, Blues, Jazz, JayChou}
+- 🎸 **Playing Guitar** {Fender Stratocaster, Musicman JP6, Ormsby Goliath GTR}
+
 ## 🌟 Other
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=jackthecoconut&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
