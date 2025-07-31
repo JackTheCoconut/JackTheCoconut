@@ -27,7 +27,7 @@ hackUST2023 - Web3.0 Best Sustainable Idea Awards
 
 ## 📚 My Book List
 
-- **What Life Could Mean to You** (自卑與超越) by Alfred Adler
+- **19 Lessons of Chinese Philosophy** (中國哲學十九講) by 牟宗三
 - **The Courage to Be Disliked** （被討厭的勇氣）by Ichiro Kishimi and Fumitake Koga
 - **The Art of Loving** (愛的藝術）by Erich Fromm
 - **The Essays of Warren Buffett** (巴菲特致股東的信）by Warren Buffett
