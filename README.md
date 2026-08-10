@@ -1,45 +1,62 @@
-# Hi everyone, I'm Jack
+<div align="center">
 
-[![About Me](https://img.shields.io/badge/About_me-333333?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://jackthecoconut.github.io/about/)
-[![LinkedIn](https://img.shields.io/badge/Jack_Ngan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-ngan-1062a8265/)
-[![Instagram](https://img.shields.io/badge/hi%5Fim%5Fnot%5Fjack%5F-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_im_not_jack_/)
+# Hi, I'm Jack Ngan
 
-## 🏅 Experiences & Awards
-hackUST2023 - Web3.0 Best Sustainable Idea Awards
+**Software builder · Curious learner · Guitarist · Photographer**
 
-## 💻 Skills & Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack_Ngan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-ngan-1062a8265/)
+[![Instagram](https://img.shields.io/badge/Instagram-hi__im__not__jack__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_im_not_jack_/)
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![MIPS](https://img.shields.io/badge/MIPS-003366?logo=logitech&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+</div>
 
+## About me
 
-## 🛠 Tools
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+I enjoy turning ideas into practical software and learning through building. My interests span web and mobile development, AI-powered products, and tools that make everyday experiences simpler.
 
-## 📚 My Book List
+- Awarded **Web3.0 Best Sustainable Idea** at **hackUST 2023**
+- Comfortable working across TypeScript, JavaScript, Python, C, C++, and C#
+- Always exploring new technology, thoughtful product design, and better ways to solve problems
 
-- **19 Lessons of Chinese Philosophy** (中國哲學十九講) by 牟宗三
-- **The Courage to Be Disliked** （被討厭的勇氣）by Ichiro Kishimi and Fumitake Koga
-- **The Art of Loving** (愛的藝術）by Erich Fromm
-- **The Essays of Warren Buffett** (巴菲特致股東的信）by Warren Buffett
-- **The Essential Wit and Wisdom of Charles T. Munger** (窮查理的普通常識) by Charles T. Munger
+## Featured work
 
-## 🎸 Hobbies
+- [**Travel booking experience**](https://jackthecoconut.github.io/) — a multi-page travel discovery and checkout demo built for the web ([source](https://github.com/JackTheCoconut/jackthecoconut.github.io))
+- [**Online Eye Test Frontend**](https://github.com/JackTheCoconut/OnlineEyeTestFrontend) — a React Native frontend for an online eye-testing experience
+- [**Notebook**](https://github.com/JackTheCoconut/Notebook) — notes, experiments, and things learned along the way
 
-- 📖 **Reading** {Personal Development, Business & Finance, Psychology & Philosophy, Comics & Novel}
-- 🎵 **Music** {Jpop, Jrock, Rock, Metal, Blues, Jazz, JayChou}
-- 🎸 **Playing Guitar** {Fender Stratocaster, Musicman JP6, Ormsby Goliath GTR}
-- 📷 **Photography** {Sony A7RIII + Sony 24-70mm f2.8 GM + Tamron 70-180mm f2.8}
+## Tech stack
 
-## 🌟 Other
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=jackthecoconut&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+## Beyond code
+
+- **Reading:** personal development, business and finance, psychology and philosophy, comics, and novels
+- **Music:** J-pop, J-rock, rock, metal, blues, jazz, and Jay Chou
+- **Guitar:** Fender Stratocaster, Music Man JP6, and Ormsby Goliath GTR
+- **Photography:** Sony A7R III with Sony 24–70mm f/2.8 GM and Tamron 70–180mm f/2.8
+
+<details>
+<summary><strong>Current reading shelf</strong></summary>
+
+- *19 Lessons of Chinese Philosophy* (中國哲學十九講) — 牟宗三
+- *The Courage to Be Disliked* (被討厭的勇氣) — Ichiro Kishimi and Fumitake Koga
+- *The Art of Loving* (愛的藝術) — Erich Fromm
+- *The Essays of Warren Buffett* (巴菲特致股東的信) — Warren Buffett
+- *Poor Charlie's Almanack* (窮查理的普通常識) — Charles T. Munger
+
+</details>
+
+## GitHub at a glance
+
+<div align="center">
+
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheCoconut&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+</div>
