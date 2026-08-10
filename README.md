@@ -11,11 +11,9 @@
 
 ## About me
 
-I enjoy turning ideas into practical software and learning through building. My interests span web and mobile development, AI-powered products, and tools that make everyday experiences simpler.
+I enjoy the process of finding pain points, designing solutions, implementing them, improving them, and then moving on to the next challenge.
 
 - Awarded **Web3.0 Best Sustainable Idea** at **hackUST 2023**
-- Comfortable working across TypeScript, JavaScript, Python, C, C++, and C#
-- Always exploring new technology, thoughtful product design, and better ways to solve problems
 
 ## Featured work
 
@@ -42,21 +40,10 @@ I enjoy turning ideas into practical software and learning through building. My 
 - **Guitar:** Fender Stratocaster, Music Man JP6, and Ormsby Goliath GTR
 - **Photography:** Sony A7R III with Sony 24–70mm f/2.8 GM and Tamron 70–180mm f/2.8
 
-<details>
-<summary><strong>Current reading shelf</strong></summary>
+## My book list
 
 - *19 Lessons of Chinese Philosophy* (中國哲學十九講) — 牟宗三
 - *The Courage to Be Disliked* (被討厭的勇氣) — Ichiro Kishimi and Fumitake Koga
 - *The Art of Loving* (愛的藝術) — Erich Fromm
 - *The Essays of Warren Buffett* (巴菲特致股東的信) — Warren Buffett
-- *Poor Charlie's Almanack* (窮查理的普通常識) — Charles T. Munger
-
-</details>
-
-## GitHub at a glance
-
-<div align="center">
-
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheCoconut&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-</div>
+- *The Essential Wit and Wisdom of Charles T. Munger* (窮查理的普通常識) — Charles T. Munger
