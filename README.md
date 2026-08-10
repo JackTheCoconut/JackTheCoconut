@@ -15,11 +15,6 @@ I enjoy the process of finding pain points, designing solutions, implementing th
 
 - Awarded **Web3.0 Best Sustainable Idea** at **hackUST 2023**
 
-## Featured work
-
-- [**Travel booking experience**](https://jackthecoconut.github.io/) — a multi-page travel discovery and checkout demo built for the web ([source](https://github.com/JackTheCoconut/jackthecoconut.github.io))
-- [**Online Eye Test Frontend**](https://github.com/JackTheCoconut/OnlineEyeTestFrontend) — a React Native frontend for an online eye-testing experience
-- [**Notebook**](https://github.com/JackTheCoconut/Notebook) — notes, experiments, and things learned along the way
 
 ## Tech stack
 
